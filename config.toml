@@ -1,0 +1,5 @@
+[taxonomies]
+confidentiality = "bla"
+
+[params.taxonomy]
+taxonomyPageHeader = ["bla"]
