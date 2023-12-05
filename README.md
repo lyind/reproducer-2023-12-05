@@ -1,6 +1,6 @@
 ## Reproducer for Hugo/Goldmark issue
 
-Render with Hugo (tested with <= v0.120.4, eg. from `peaceiris/hugo:v0.120.4`) in this directory:
+Render with Hugo (tested with v0.120.4, v0.121.0 and main) in this directory:
 ```
 hugo --verbose --cleanDestinationDir --destination public
 ```
